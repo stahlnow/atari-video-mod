@@ -1,1 +1,1 @@
-![board](http://github.com/stahlnow/atari-video-mod/blob/master/doc/board.png "gerber screenshot")
+![board](https://raw.githubusercontent.com/stahlnow/atari-video-mod/master/doc/board.png "gerber screenshot")
