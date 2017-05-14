@@ -1669,23 +1669,23 @@ at 30/07/2012 17:45:58</description>
 <package name="ATARI-AGE">
 <description>AtariAge.com logo</description>
 <circle x="2.54" y="2.54" radius="2.5903" width="0.508" layer="21"/>
-<polygon width="0" layer="21">
-<vertex x="2.7178" y="2.9972"/>
-<vertex x="2.3114" y="2.9464"/>
-<vertex x="1.5494" y="0.7112"/>
-<vertex x="2.032" y="0.762"/>
-<vertex x="2.5654" y="2.4638"/>
-<vertex x="3.4544" y="0.9144"/>
-<vertex x="3.9116" y="0.9652"/>
+<polygon width="0.127" layer="21">
+<vertex x="4" y="2.4"/>
+<vertex x="3.6" y="2.3"/>
+<vertex x="2.4" y="3.9"/>
+<vertex x="1.6" y="2"/>
+<vertex x="1.2" y="1.9"/>
+<vertex x="2.2" y="4.1"/>
+<vertex x="2.6" y="4.2"/>
 </polygon>
-<polygon width="0" layer="21">
-<vertex x="2.5654" y="4.4196"/>
-<vertex x="2.159" y="4.3688"/>
-<vertex x="1.397" y="2.1336"/>
-<vertex x="1.8796" y="2.1844"/>
-<vertex x="2.413" y="3.8862"/>
-<vertex x="3.302" y="2.3368"/>
-<vertex x="3.7592" y="2.3876"/>
+<polygon width="0.127" layer="21">
+<vertex x="2.3" y="2.9"/>
+<vertex x="2.7" y="3"/>
+<vertex x="3.9" y="1"/>
+<vertex x="3.6" y="0.9"/>
+<vertex x="2.5" y="2.6"/>
+<vertex x="1.8" y="0.8"/>
+<vertex x="1.4" y="0.7"/>
 </polygon>
 </package>
 </packages>
